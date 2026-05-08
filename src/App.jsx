@@ -60,11 +60,10 @@ export default function App() {
             </span>
           </label>
 
-          <button className="text-xs font-medium text-left text-blue-700 hover:underline">
-            Forgot
-            <br />
-            Password?
-          </button>
+          <button className="mt-2 text-xs font-medium text-left text-blue-700 hover:underline">
+            Forgot  Password?
+            
+           </button>
         </div>
 
         {/* Button */}
